@@ -1,0 +1,52 @@
+state,basic,field,workMonthsBeforeTraining
+Alabama,520,0,6
+Alaska,520,40,6
+Arizona,585,0,0
+Arkansas,520,0,12
+California,664,0,0
+Colorado,556,0,0
+Connecticut,1321,400,0
+Delaware,584,0,0
+District of Columbia,960,0,0
+Florida,770,0,6
+Georgia,408,0,0
+Hawaii,0,0,0
+Idaho,600,40,12
+Illinois,560,0,6
+Indiana,600,0,12
+Iowa,560,0,12
+Kansas,560,0,N/A
+Kentucky,800,0,12
+Louisiana,450,0,12
+Maine,720,0,12
+Maryland,750,0,12
+Massachusetts,812,0,9
+Michigan,680,0,0
+Minnesota,1050,0,0
+Mississippi,480,0,24
+Missouri,600,0,infinite
+Montana,480,0,12
+Nebraska,626,0,12
+Nevada,680,0,12
+New Hampshire,640,0,6
+New Jersey,880,0,18
+New Mexico,1160,0,12
+New York,700,0,12
+North Carolina,640,0,0
+North Dakota,480,0,N/A
+Ohio,737,0,0
+Oklahoma,576,0,6
+Oregon,400,0,18
+Pennsylvania,859,0,0
+Rhode Island,880,0,0
+South Carolina,480,0,12
+South Dakota,520,0,12
+Tennessee,480,960,6
+Texas,696,0,12
+Utah,640,0,0
+Vermont,792,120,12
+Virginia,800,0,12
+Washington,720,0,6
+West Virginia,640,0,3
+Wisconsin,720,0,12
+Wyoming,598,9,12
